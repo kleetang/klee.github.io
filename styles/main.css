@@ -1,0 +1,18 @@
+.navbar-default {
+	background-color: #fff;
+}
+.navbar-default .navbar-brand {
+    color: #2c3e50;
+}
+#logo img {
+    position: relative;
+    width: 50px;
+    padding: 5px;
+    top: -15px;
+    float: left;
+}
+#logo span {
+    position: relative;
+    float: left;
+    left: 5px;
+}
