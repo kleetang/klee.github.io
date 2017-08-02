@@ -9,4 +9,8 @@ new Vue({
             { message: 'and Games and puzzles' }
         ]
     }
-})
+});
+
+$(function () {
+  $('[data-toggle="popover"]').popover()
+});
