@@ -1,9 +1,24 @@
-.navbar-default {
-	background-color: #fff;
+body {
+    padding-top: 50px;
 }
+.size_16 {font-size: 16px;}
+.size_17 {font-size: 17px;}
+.size_18 {font-size: 18px;}
+.size_19 {font-size: 19px;}
+.size_20 {font-size: 20px;}
+.size_21 {font-size: 21px;}
+.size_22 {font-size: 22px;}
+
+.note-color {color:#333;}
+
+.navbar-default {
+    background-color: #fff;
+}
+
 .navbar-default .navbar-brand {
     color: #2c3e50;
 }
+
 #logo img {
     position: relative;
     width: 50px;
@@ -11,8 +26,23 @@
     top: -15px;
     float: left;
 }
+
 #logo span {
     position: relative;
     float: left;
     left: 5px;
+}
+
+/*Centered container element*/
+.container-fixed(@gutter: @grid-gutter-width) {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: floor((@gutter / 2));
+    padding-right: ceil((@gutter / 2));
+    &:extend(.clearfix all);
+}
+
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
 }
