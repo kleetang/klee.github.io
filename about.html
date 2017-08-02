@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="Klees Personal Site">
+    <meta name="description" content="Klee Tang Personal Site">
     <meta name="keywords" content="HTML,CSS,XML,JavaScript">
     <meta name="author" content="Klee Tang">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -46,15 +46,16 @@
             <!--/.nav-collapse -->
         </div>
     </nav>
-    <div class="container">
+    <div class="container main-container">
         <div class="starter-template">
             <h1>Hello Internet!</h1>
         </div>
         <div class="purpose">
             <h2>The purpose of this site</h2>
-            <p id="interested-tops" class="size_19"> This website is about random stuff that I find interesting or I am doing . The topics might various in different feilds such as 
-            <span v-for="item in items">{{ item.message }}</span> etc. <br/>
-            <em class="sidenote note-color size_17">Sidenote: I have been thinking about creating my own website for years, but there is always an excuse for me not doing so. Well, I can not let excuses control my life forever. And maybe it's the time to do something now. -- 08/02/2017</em>
+            <p id="interested-tops" class="size_19"> This website is about random stuff that I find interesting or I am doing . The topics might various in different feilds such as
+                <span v-for="item in items">{{ item.message }}</span> etc.
+                <br/>
+                <em class="sidenote note-color size_17">Sidenote: I have been thinking about creating my own website for years, but there is always an excuse for me not doing so. Well, I can not let excuses control my life forever. And maybe it's the time to do something now. -- 08/02/2017</em>
             </p>
         </div>
         <div class="axiom">
@@ -63,8 +64,9 @@
         </div>
         <div class="definition">
             <h2>The definition of Klee</h2>
-            <p class="size_19">Klee is a child of God. <br/>
-            <em class="proof note-color	 size_17">Proof: Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God— (<a href="https://www.bible.com/bible/111/JHN.1.12" target="_blank">John 1:12</a>)</em>
+            <p class="size_19">Klee is a child of God.
+                <br/>
+                <em class="proof note-color	 size_17">Proof: Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God— (<a href="https://www.bible.com/bible/111/JHN.1.12" target="_blank">John 1:12</a>)</em>
             </p>
         </div>
         <div class="properties">
@@ -77,14 +79,23 @@
                 <li>Web Developer - <span class="note-color">2014 - now</span></li>
             </ul>
         </div>
+        <div class="contact">
+            <h2>Contact Info</h2>
+            <p class="size_19">Nah you don't wanna contact me yet. How about trying to click my name below?</p>
+        </div>
     </div>
+    <footer class="container">
+        <div class="footer">
+            <span class="text-muted">@ <a tabindex="0" class="" role="button" data-toggle="popover" data-trigger="focus" data-placement="top" data-content="Nothing happened.">Klee Tang</a>, 2017</span>
+        </div>
+    </footer>
     <link rel="stylesheet" href="./styles/main.css">
-    <script src="./styles/main.js"></script>
-    <script src="./styles/about.js"></script>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script src="./styles/main.js"></script>
+    <script src="./styles/about.js"></script>
 </body>
 
 </html>
