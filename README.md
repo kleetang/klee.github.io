@@ -1,2 +1,2 @@
 # kleetang.github.io
-Klee, what are you doing?
+This is a simple personal website for myself.
