@@ -229,12 +229,13 @@ nav #logo span {
   color: #888; }
 
 .post {
+  margin-bottom: 30px;
   padding: 25px 0 15px; }
   .post .post-title {
     margin: 0;
     color: #555;
     text-align: left;
-    font: bold 25px/1.1 "ff-tisa-web-pro", Cambria, "Times New Roman", Georgia, Times, sans-serif; }
+    font-size: 24px; }
     .post .post-title a {
       color: #555; }
   .post .post-meta {
@@ -243,11 +244,7 @@ nav #logo span {
     color: #6E7173;
     float: left;
     display: inline;
-    text-indent: .15em; }
-    .post .post-meta:before {
-      font-family: "FontAwesome";
-      content: "\f073";
-      padding-right: 0.3em; }
+    font-size: 15px; }
     .post .post-meta .category:before {
       font-family: "FontAwesome";
       content: "\f07c";
