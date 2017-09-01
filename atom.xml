@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kleetang.com/"/>
-  <updated>2017-08-14T02:20:59.000Z</updated>
+  <updated>2017-09-01T04:29:51.000Z</updated>
   <id>http://kleetang.com/</id>
   
   <author>
@@ -14,6 +14,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Max Int Value</title>
+    <link href="http://kleetang.com/2017/09/01/Max-Int-Value/"/>
+    <id>http://kleetang.com/2017/09/01/Max-Int-Value/</id>
+    <published>2017-09-01T04:17:50.000Z</published>
+    <updated>2017-09-01T04:29:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Q</strong>: What is the maximum value for an int32? I can never remember the number. I need a memory rule. </p>
+<p><strong>A</strong>: It’s <a href="https://en.wikipedia.org/wiki/2,147,483,647" target="_blank" rel="external">2,147,483,647</a>. The easiest way to memorize it is via a tattoo.</p>
+<p>This question at <a href="https://stackoverflow.com/a/94608/8497198" target="_blank" rel="external">stackoverflow</a> really made my day :)</p>
+<p>TBC.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;Q&lt;/strong&gt;: What is the maximum value for an int32? I can never remember the number. I need a memory rule. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A&lt;/str
+    
+    </summary>
+    
+    
+      <category term="Interger" scheme="http://kleetang.com/tags/Interger/"/>
+    
+      <category term="32-bit" scheme="http://kleetang.com/tags/32-bit/"/>
+    
+  </entry>
   
   <entry>
     <title>A Healthier Lifestyle</title>
