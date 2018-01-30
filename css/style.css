@@ -29,7 +29,13 @@ body {
   background: #fefefe;
   scroll-behavior: smooth;
   vertical-align: baseline;
-  padding-top: 50px; }
+  padding-top: 50px;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto; }
 
 h2, h3, h4 {
   font-weight: bold; }
@@ -288,7 +294,12 @@ nav #logo span {
     padding-top: 15px;
     text-align: justify;
     text-justify: distribute;
-    word-break: break-all; }
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto; }
     .post .post-content h2 {
       margin: 1.4em 0 1.1em;
       border-bottom: 1px solid #eee;
