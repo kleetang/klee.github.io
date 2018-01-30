@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kleetang.com/"/>
-  <updated>2017-09-01T04:29:51.000Z</updated>
+  <updated>2018-01-30T17:49:32.000Z</updated>
   <id>http://kleetang.com/</id>
   
   <author>
@@ -16,29 +16,37 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Max Int Value</title>
-    <link href="http://kleetang.com/2017/09/01/Max-Int-Value/"/>
-    <id>http://kleetang.com/2017/09/01/Max-Int-Value/</id>
-    <published>2017-09-01T04:17:50.000Z</published>
-    <updated>2017-09-01T04:29:51.000Z</updated>
+    <title>无语问上帝 (1)</title>
+    <link href="http://kleetang.com/2018/01/30/Ask-God-1/"/>
+    <id>http://kleetang.com/2018/01/30/Ask-God-1/</id>
+    <published>2018-01-30T17:43:37.000Z</published>
+    <updated>2018-01-30T17:49:32.000Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>Q</strong>: What is the maximum value for an int32? I can never remember the number. I need a memory rule. </p>
-<p><strong>A</strong>: It’s <a href="https://en.wikipedia.org/wiki/2,147,483,647" target="_blank" rel="external">2,147,483,647</a>. The easiest way to memorize it is via a tattoo.</p>
-<p>This question at <a href="https://stackoverflow.com/a/94608/8497198" target="_blank" rel="external">stackoverflow</a> really made my day :)</p>
-<p>TBC.</p>
+    <content type="html"><![CDATA[<ul>
+<li>懂得感恩，懂得珍惜。变得温柔，学习善待他人。</li>
+<li>没有无可取代，但同时不要take anything for granted。</li>
+<li>太在意他人的眼光，其实是太在意自己。但，在别人的世界里，也许根本没有你。所以，当你觉得受伤的时候，只是因为你最开始的出发点是从自己的角度，而那个伤害你的人，也（其）许（实）根本就没有从你的角度考虑。</li>
+<li>生活是活给自己的，不是活给他人看的。冷暖自知，何必废话。</li>
+<li>这个世界是有一个无形的规律存在的。无论再努力想要挣脱，最终还是会落入那个规律，变成亿万尘埃中的一粒沙。</li>
+<li>置之死地而后生，于生活，放下才是真正的得到。</li>
+<li>束手束脚肯定是一无所获的。所谓的成功者，多是偏执狂。而对于普通人，也许只需要跨出第一步的一点点勇气。万事万物多相通，投资要考虑风险，生活也要考虑风险。人们总是觉得保险最重要，所以鲜有人愿意把存在银行里的钱拿出来投资。却又落入了只出不入的恶性循环。控制风险，大概是很多事情的真谛。</li>
+</ul>
+<p><em>*盗用一下书名。记录一些我的胡思乱想。</em></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;strong&gt;Q&lt;/strong&gt;: What is the maximum value for an int32? I can never remember the number. I need a memory rule. &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;A&lt;/str
+      &lt;ul&gt;
+&lt;li&gt;懂得感恩，懂得珍惜。变得温柔，学习善待他人。&lt;/li&gt;
+&lt;li&gt;没有无可取代，但同时不要take anything for granted。&lt;/li&gt;
+&lt;li&gt;太在意他人的眼光，其实是太在意自己。但，在别人的世界里，也许根本没有你。所以，当你觉得受伤的时候，只是
     
     </summary>
     
     
-      <category term="Interger" scheme="http://kleetang.com/tags/Interger/"/>
+      <category term="God" scheme="http://kleetang.com/tags/God/"/>
     
-      <category term="32-bit" scheme="http://kleetang.com/tags/32-bit/"/>
+      <category term="Self-Reflection" scheme="http://kleetang.com/tags/Self-Reflection/"/>
     
   </entry>
   
